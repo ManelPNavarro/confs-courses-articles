@@ -11,6 +11,7 @@ Videos, courses, tutorials, conferences, articles that I find useful classifieds
 * :arrow_forward: [CodelyTv - DDD y CQRS: Preguntas Frecuentes](https://www.youtube.com/watch?v=auEhX4WfCRA)
 
 
+
 #### PHP
 
 * :arrow_forward: [Carlos Buenosvinos - Rigor talks](https://www.youtube.com/playlist?list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP)
