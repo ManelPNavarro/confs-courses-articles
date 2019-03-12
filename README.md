@@ -1,5 +1,5 @@
 # Learning Sources
-Videos, courses, tutorials, conferences, articles that I find useful classifieds by topic
+Videos, courses, tutorials, conferences, articles that I find useful, classifieds by language and topic
 
 
 ### :speech_balloon: Spanish
