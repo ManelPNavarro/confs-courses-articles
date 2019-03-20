@@ -2,7 +2,7 @@
 Videos, Books, Courses, Tutorials, Conferences, Articles that I find useful, classifieds by language and topic
 
 
-### English
+## English
 
 #### Coding
 
@@ -14,7 +14,7 @@ Videos, Books, Courses, Tutorials, Conferences, Articles that I find useful, cla
 
 <br><br>
 
-### Spanish
+## Spanish
 
 #### Hexagonal architecture, DDD, CQRS
 
