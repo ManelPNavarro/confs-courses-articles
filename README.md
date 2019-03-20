@@ -9,6 +9,10 @@ Videos, Books, Courses, Tutorials, Conferences, Articles that I find useful, cla
 
 * :book: Clean Code *(Robert C Martin)*
 
+#### Security
+
+* :arrow_forward: [Scott Dutton - Database Encryption in a GDPR World](https://www.youtube.com/watch?v=RTZXgxYGOWA)
+
 
 
 ### :speech_balloon: Spanish
