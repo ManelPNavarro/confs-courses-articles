@@ -1,5 +1,5 @@
 # Learning Sources
-Videos, Books, Courses, Tutorials, Conferences, Articles that I find useful, classifieds by language and topic
+Books I've read, videos I've seen, Courses I've made, Tutorials, Conferences, Articles that I find useful.
 
 <br>
 
@@ -8,6 +8,10 @@ Videos, Books, Courses, Tutorials, Conferences, Articles that I find useful, cla
 #### Coding
 
 * :book: Clean Code *(Robert C Martin)*
+
+#### DDD
+
+* :book: Domain-Driven Design in PHP *(Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary)*
 
 #### Security
 
