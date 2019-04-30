@@ -9,7 +9,7 @@ Books I've read, videos I've seen, Courses I've made, Tutorials, Conferences, Ar
 
 * :book: Clean Code *(Robert C Martin)*
 
-#### DDD
+#### Hexagonal architecture, DDD, CQRS
 
 * :book: Domain-Driven Design in PHP *(Carlos Buenosvinos, Christian Soronellas, and Keyvan Akbary)*
 
