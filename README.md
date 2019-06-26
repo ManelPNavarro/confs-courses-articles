@@ -31,3 +31,6 @@ Books I've read, videos I've seen, courses I've made, tutorials, conferences, ar
 
 * :arrow_forward: [Carlos Buenosvinos - Rigor talks](https://www.youtube.com/playlist?list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP)
 
+#### Testing
+
+* :arrow_forward: [TDD, Vence a tu código zombie - Eva Lozano](https://www.youtube.com/watch?v=MkpvaPcYvqk)
