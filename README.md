@@ -34,3 +34,8 @@ Books I've read, videos I've seen, courses I've made, tutorials, conferences, ar
 #### Testing
 
 * :arrow_forward: [TDD, Vence a tu código zombie - Eva Lozano](https://www.youtube.com/watch?v=MkpvaPcYvqk)
+
+#### Git
+
+* :mortar_board: [Aprende GIT, de 0 a 100 - Israel Alcázar](https://www.tutellus.com/tecnologia/desarrollo-web/aprende-git-de-0-a-100-10852)
+
