@@ -21,6 +21,10 @@ Books I've read, videos I've seen, courses I've made, tutorials, conferences, ar
 
 ## Spanish
 
+#### SOLID
+
+* :mortar_board: [Principios SOLID aplicados](https://pro.codely.tv/library/principios-solid-aplicados)
+
 #### Hexagonal architecture, DDD, CQRS
 
 * :arrow_forward: [CodelyTv - Introducción Arquitectura Hexagonal - DDD](https://www.youtube.com/watch?v=GZ9ic9QSO5U)
