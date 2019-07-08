@@ -16,6 +16,8 @@ Books I've read, videos I've seen, courses I've made, tutorials, conferences, ar
 #### Security
 
 * :arrow_forward: [Database Encryption in a GDPR World - Scott Dutton](https://www.youtube.com/watch?v=RTZXgxYGOWA)
+ 
+<br/>
 
 ## Spanish
 
