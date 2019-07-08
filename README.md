@@ -15,25 +15,26 @@ Books I've read, videos I've seen, courses I've made, tutorials, conferences, ar
 
 #### Security
 
-* :arrow_forward: [Scott Dutton - Database Encryption in a GDPR World](https://www.youtube.com/watch?v=RTZXgxYGOWA)
-
-<br><br>
+* :arrow_forward: [Database Encryption in a GDPR World - Scott Dutton](https://www.youtube.com/watch?v=RTZXgxYGOWA)
+  
+   
+   
 
 ## Spanish
 
 #### SOLID
 
-* :mortar_board: [Principios SOLID aplicados](https://pro.codely.tv/library/principios-solid-aplicados)
+* :mortar_board: [Principios SOLID aplicados - CodelyTv](https://pro.codely.tv/library/principios-solid-aplicados)
 
 #### Hexagonal architecture, DDD, CQRS
 
-* :arrow_forward: [CodelyTv - Introducción Arquitectura Hexagonal - DDD](https://www.youtube.com/watch?v=GZ9ic9QSO5U)
-* :arrow_forward: [CodelyTv - Aprende DDD en 20 minutos](https://www.youtube.com/watch?v=dH5aSQLXtKg)
-* :arrow_forward: [CodelyTv - DDD y CQRS: Preguntas Frecuentes](https://www.youtube.com/watch?v=auEhX4WfCRA)
+* :arrow_forward: [Introducción Arquitectura Hexagonal, DDD - CodelyTv](https://www.youtube.com/watch?v=GZ9ic9QSO5U)
+* :arrow_forward: [Aprende DDD en 20 minutos - CodelyTv](https://www.youtube.com/watch?v=dH5aSQLXtKg)
+* :arrow_forward: [DDD y CQRS: Preguntas Frecuentes - CodelyTv](https://www.youtube.com/watch?v=auEhX4WfCRA)
 
 #### PHP
 
-* :arrow_forward: [Carlos Buenosvinos - Rigor talks](https://www.youtube.com/playlist?list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP)
+* :arrow_forward: [Rigor talks - Carlos Buenosvinos](https://www.youtube.com/playlist?list=PLfgj7DYkKH3Cd8bdu5SIHGYXh_bPV2idP)
 
 #### Testing
 
