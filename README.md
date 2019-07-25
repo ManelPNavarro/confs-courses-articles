@@ -30,6 +30,7 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 * :arrow_forward: [Introducción Arquitectura Hexagonal, DDD - CodelyTv](https://www.youtube.com/watch?v=GZ9ic9QSO5U)
 * :arrow_forward: [Aprende DDD en 20 minutos - CodelyTv](https://www.youtube.com/watch?v=dH5aSQLXtKg)
 * :arrow_forward: [DDD y CQRS: Preguntas Frecuentes - CodelyTv](https://www.youtube.com/watch?v=auEhX4WfCRA)
+* :arrow_forward: [Estructura de carpetas - 🐘 DDD en PHP (y otros lenguajes) - CodelyTv](https://youtu.be/UFnABp2s8Y0)
 
 #### PHP
 
