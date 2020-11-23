@@ -50,3 +50,6 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 
 * :mortar_board: [Aprende GIT, de 0 a 100 - Israel Alcázar](https://www.tutellus.com/tecnologia/desarrollo-web/aprende-git-de-0-a-100-10852)
 
+#### IT Culture
+* :book: The Clean Coder *(Robert C Martin)*
+
