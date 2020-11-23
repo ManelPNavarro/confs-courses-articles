@@ -9,6 +9,9 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 
 * :book: Clean Code *(Robert C Martin)*
 
+#### IT Culture
+* :book: The Clean Coder *(Robert C Martin)*
+
 #### PHP
 
 * :arrow_forward: [Supercharge your apps with ReactPHP & PHP-PM - Albert Casademont](https://www.youtube.com/watch?v=ZATfsy9wOG4)
@@ -49,7 +52,4 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### Git
 
 * :mortar_board: [Aprende GIT, de 0 a 100 - Israel Alcázar](https://www.tutellus.com/tecnologia/desarrollo-web/aprende-git-de-0-a-100-10852)
-
-#### IT Culture
-* :book: The Clean Coder *(Robert C Martin)*
 
