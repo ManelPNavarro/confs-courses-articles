@@ -15,6 +15,7 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### PHP
 
 * :arrow_forward: [Supercharge your apps with ReactPHP & PHP-PM - Albert Casademont](https://www.youtube.com/watch?v=ZATfsy9wOG4)
+* :book: [Symfony 5: The Fast Track *(Fabien Potencier)*](https://symfony.com/book)
 
 
 #### Hexagonal Architecture, DDD, CQRS
