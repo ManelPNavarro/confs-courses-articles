@@ -34,6 +34,7 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 
 * :mortar_board: [Principios SOLID aplicados - CodelyTv](https://pro.codely.tv/library/principios-solid-aplicados)
 * :memo: [SOLID in PHP - Emmanuel Valverde Ramos](https://dev.to/evrtrabajo/solid-in-php-d8e)
+* :memo [Principios SOLID - Asier Marques] (https://asiermarques.com/2018/principios-solid)
 
 #### Hexagonal architecture, DDD, CQRS
 
