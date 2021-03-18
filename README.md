@@ -35,7 +35,6 @@ Books, articles, videos, conferences, etc that I find useful.
 
 #### SOLID
 
-* :mortar_board: [Principios SOLID aplicados - CodelyTv](https://pro.codely.tv/library/principios-solid-aplicados)
 * :memo: [Principios SOLID - Asier Marques](https://asiermarques.com/2018/principios-solid)
 
 #### PHP
