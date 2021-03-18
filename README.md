@@ -1,5 +1,5 @@
 # Learning Sources
-Books I've read, videos I've seen, courses I've taken, tutorials, conferences, articles that I find useful.
+Books, articles, videos, conferences, etc that I find useful.
 
 <br>
 
@@ -36,14 +36,7 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### SOLID
 
 * :mortar_board: [Principios SOLID aplicados - CodelyTv](https://pro.codely.tv/library/principios-solid-aplicados)
-* :memo: [Principios SOLID - Asier Marques] (https://asiermarques.com/2018/principios-solid)
-
-#### Hexagonal architecture, DDD, CQRS
-
-* :arrow_forward: [Introducción Arquitectura Hexagonal, DDD - CodelyTv](https://www.youtube.com/watch?v=GZ9ic9QSO5U)
-* :arrow_forward: [Aprende DDD en 20 minutos - CodelyTv](https://www.youtube.com/watch?v=dH5aSQLXtKg)
-* :arrow_forward: [DDD y CQRS: Preguntas Frecuentes - CodelyTv](https://www.youtube.com/watch?v=auEhX4WfCRA)
-* :arrow_forward: [Estructura de carpetas - 🐘 DDD en PHP (y otros lenguajes) - CodelyTv](https://youtu.be/UFnABp2s8Y0)
+* :memo: [Principios SOLID - Asier Marques](https://asiermarques.com/2018/principios-solid)
 
 #### PHP
 
@@ -52,8 +45,4 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### Testing
 
 * :arrow_forward: [TDD, Vence a tu código zombie - Eva Lozano](https://www.youtube.com/watch?v=MkpvaPcYvqk)
-
-#### Git
-
-* :mortar_board: [Aprende GIT, de 0 a 100 - Israel Alcázar](https://www.tutellus.com/tecnologia/desarrollo-web/aprende-git-de-0-a-100-10852)
 
