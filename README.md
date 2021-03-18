@@ -12,6 +12,9 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### IT Culture
 * :book: The Clean Coder *(Robert C Martin)*
 
+#### SOLID
+* :memo: [SOLID in PHP - Emmanuel Valverde Ramos](https://dev.to/evrtrabajo/solid-in-php-d8e)
+
 #### PHP
 
 * :arrow_forward: [Supercharge your apps with ReactPHP & PHP-PM - Albert Casademont](https://www.youtube.com/watch?v=ZATfsy9wOG4)
@@ -33,8 +36,7 @@ Books I've read, videos I've seen, courses I've taken, tutorials, conferences, a
 #### SOLID
 
 * :mortar_board: [Principios SOLID aplicados - CodelyTv](https://pro.codely.tv/library/principios-solid-aplicados)
-* :memo: [SOLID in PHP - Emmanuel Valverde Ramos](https://dev.to/evrtrabajo/solid-in-php-d8e)
-* :memo [Principios SOLID - Asier Marques] (https://asiermarques.com/2018/principios-solid)
+* :memo: [Principios SOLID - Asier Marques] (https://asiermarques.com/2018/principios-solid)
 
 #### Hexagonal architecture, DDD, CQRS
 
