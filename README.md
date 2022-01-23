@@ -1,5 +1,5 @@
 # Learning Sources
-Books, articles, videos, conferences, etc that I find useful.
+Books and articles I've read, videos, conferences, etc that I find useful.
 
 <br>
 
@@ -20,6 +20,9 @@ Books, articles, videos, conferences, etc that I find useful.
 * :arrow_forward: [Supercharge your apps with ReactPHP & PHP-PM - Albert Casademont](https://www.youtube.com/watch?v=ZATfsy9wOG4)
 * :book: [Symfony 5: The Fast Track *(Fabien Potencier)*](https://symfony.com/book)
 
+#### Software Architecture
+
+* :book: Clean Architecture *(Robert C Martin)*
 
 #### Hexagonal Architecture, DDD, CQRS
 
