@@ -1,5 +1,5 @@
 # Learning Sources
-Books and articles I've read, videos, conferences, etc that I find useful.
+Books and articles I've read, videos, conferences that I find useful.
 
 <br>
 
