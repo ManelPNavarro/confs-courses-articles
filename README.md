@@ -11,6 +11,7 @@ Books and articles I've read, videos, conferences that I find useful.
 
 #### IT Culture
 * :book: The Clean Coder *(Robert C Martin)*
+* :book: Extreme Programming Explained: Embrace Change *(Kent Beck)*
 
 #### SOLID
 * :memo: [SOLID in PHP - Emmanuel Valverde Ramos](https://dev.to/evrtrabajo/solid-in-php-d8e)
